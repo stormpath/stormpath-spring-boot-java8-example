@@ -1,5 +1,5 @@
 {
-  "name": "Spring Boot + Stormpath with  Java 8",
+  "name": "SpringBootStormpathJava8",
   "description": "This app demonstrates some of the new Java 8 functional features with Stormpath",
   "repository": "https://github.com/stormpath/stormpath-spring-boot-java8-example/tree/master",
   "keywords": ["spring boot", "identity", "security", "authentication"],
